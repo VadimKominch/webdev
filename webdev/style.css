@@ -472,6 +472,10 @@ button:hover {
     background-color: #009CC2;
 }
 
+form {
+    height:46px;
+}
+
 input[type="email"] {
     width: 316px;
     height: 46px;
