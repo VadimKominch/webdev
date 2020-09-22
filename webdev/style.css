@@ -90,7 +90,7 @@ button:hover {
 }
 
 .your-life {
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/assets/header_pic.jpg') no-repeat center;
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('assets/header_pic.jpg') no-repeat center;
     background-size: cover;
     width:100%;
     height:744px;
@@ -140,19 +140,19 @@ button:hover {
 }
 
 .mail {
-    mask-image: url(/assets/mail.svg);
+    mask-image: url(assets/mail.svg);
 }
 
 .fb {
-    mask-image: url(/assets/facebook_fff.svg);
+    mask-image: url(assets/facebook_fff.svg);
 }
 
 .inst {
-    mask-image: url(/assets/insta_fff.svg);
+    mask-image: url(assets/insta_fff.svg);
 }
 
 .yb {
-    mask-image: url(/assets/telegram_fff.svg);
+    mask-image: url(assets/telegram_fff.svg);
 }
 .icon:hover {
     background-color:#009CC2;
@@ -305,7 +305,7 @@ button:hover {
 }
 
 .prev {
-    mask-image: url(/assets/arrow-left.svg);
+    mask-image: url(assets/arrow-left.svg);
     margin-right: 14px;
 }
 
@@ -314,7 +314,7 @@ button:hover {
 }
 .next {
     margin-left: 14px;
-    mask-image: url(/assets/arrow-right.svg);
+    mask-image: url(assets/arrow-right.svg);
     
 }
 
@@ -459,12 +459,12 @@ button:hover {
 }
 
 .android{
-    background: url('/assets/icon-android.png') center no-repeat;
+    background: url('assets/icon-android.png') center no-repeat;
     background-color: #009CC2;
 }
 
 .apple {
-    background: url('/assets/icon-apple.png') center no-repeat;
+    background: url('assets/icon-apple.png') center no-repeat;
     background-color: #009CC2;
 }
 
@@ -478,7 +478,7 @@ input[type="email"] {
 }
 
 input[type="button"] {
-    background: url('/assets/btn-submit.png');
+    background: url('assets/btn-submit.png');
     width: 66px;
     height: 46px;
 }
